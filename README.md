@@ -22,12 +22,9 @@ Commandprompt :
 pip install -r requirements.txt
 
 Step 4: Set Up Tesseract
-
-    Find the Tesseract file on your computer.
-
-    python
-
-    import pytesseract
+Find the Tesseract file on your computer.
+  python
+import pytesseract
     pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 2. Running the App
