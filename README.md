@@ -8,7 +8,7 @@ NEEDS:
 
 Step 1: Download the Project
 Commandprompt :
- git clone https://github.com/your-username/ocr_project.git
+ git clone  https://github.com/your-username/ocr_project.git
  cd ocr_project
  
 Step 2: Create a Virtual Environment
